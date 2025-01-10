@@ -9,6 +9,7 @@
 [Luozhou Wang*](https://wileewang.github.io/), 
 [Yijun Li**](https://yijunmaverick.github.io/), 
 [Zhifei Chen](), 
+[Jatinkumar Parmmar*](https://parmarjh.github.io/), 
 [Jui-Hsien Wang](http://juiwang.com/), 
 [Zhifei Zhang](https://zzutk.github.io/), 
 [He Zhang](https://sites.google.com/site/hezhangsprinter), 
